@@ -1,0 +1,11 @@
+{
+    "organization": "YOUR_ORG_NAME",
+    "projectName": "YOUR_PROJECT_NAME",
+    "personalAccessToken": "YOUR_PERSONAL_ACCESS_TOKEN",
+    "pbiId": "YOUR_PBI_ID",
+    "sprintPath": "YOUR_SPRINT_PATH",
+    "notes": {
+        "pbiId": "To be updated each sprint - It will be the PBI under which the maintenance task will be created.",
+        "sprintPath": "To be updated each sprint - If unsure how to set it, open the reference PBI (using the pbiId) and extract the value from the 'Iteration' field."
+    }
+}
