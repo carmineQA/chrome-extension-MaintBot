@@ -1,10 +1,10 @@
 # Testim to Azure DevOps Task Creator
 
 ## Description
-This Chrome extension simplifies the process of creating maintenance tasks in **Azure DevOps** during failure analysis of test cases (TCs).  
-When a test fails in **Testim**, the extension allows you to automatically capture relevant data (such as the title, main error, and an optional description) and create a maintenance task directly in **Azure DevOps**.  
-This eliminates the need to manually copy data between **Testim** and **Azure DevOps**, saving time and improving workflow efficiency.  
-The task will be created in the current sprint (which you can configure manually in the code), helping teams keep their maintenance tasks organized and linked to the correct iteration.
+- This Chrome extension simplifies the process of creating maintenance tasks in **Azure DevOps** during failure analysis of test cases (TCs).  
+- When a test fails in **Testim**, the extension allows you to automatically capture relevant data (such as the title, main error, and an optional description) and create a maintenance task directly in **Azure DevOps**.  
+- This eliminates the need to manually copy data between **Testim** and **Azure DevOps**, saving time and improving workflow efficiency.  
+- The task will be created in the current sprint (which you can configure manually in the code), helping teams keep their maintenance tasks organized and linked to the correct iteration.
 
 ## Installation
 1. **Download or clone** this repository.
